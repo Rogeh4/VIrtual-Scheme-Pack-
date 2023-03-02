@@ -1,0 +1,13 @@
+name: v-scheme-pack,
+displayName: Virtual Scheme Pack,
+subtitle: Use what professionals use,
+author: "[#1580FF]Rogen4, KirillRum",
+description: "RUS
+
+Мод добавляет огромное количество схем для разных направлений и времени игры.
+
+ENG
+",
+version: v1,
+hidden: true,
+minGameVersion: 141
