@@ -2,12 +2,16 @@ name: v-scheme-pack,
 displayName: Virtual Scheme Pack,
 subtitle: Use what professionals use,
 author: "[#1580FF]Rogen4, KirillRum",
-description: "RUS
-
+description: "
+[red]RU[white]
 Мод добавляет огромное количество схем для разных направлений и времени игры.
 
-ENG
+[blue]ENG[white]
+Mod adds a lot of schemes for different directions and time.
+
+[yellow]UA[white]
+Мод додає велику кількість схем для різноманітних напрямків та часу гри.
 ",
-version: v1,
+version: 1.0.0
 hidden: true,
 minGameVersion: 141
