@@ -1,4 +1,4 @@
-const IP_ADDRESS = "45.144.66.250"
+const IP_ADDRESS = "185.189.14.201"
 
 Events.run(EventType.ClientLoadEvent, () => {
     const servers = Reflect.get(Vars.ui.join, 'servers')
